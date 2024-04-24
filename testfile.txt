@@ -1,3 +1,0 @@
-this is new file, first line
-this is my second line in testfil
-adding third line in testfile
