@@ -4,6 +4,7 @@ public class Main {
           System.out.println("Hello and welcome!");
           System.out.println("Addition :" + Calculator.add(10,20));
           System.out.println("Interest :" + InterestCalculator.calculate(100,10,10));
+          System.out.println("SIP return :"+ SipCalculator.calculate(10000,12,12,20));
 
     }
 }
